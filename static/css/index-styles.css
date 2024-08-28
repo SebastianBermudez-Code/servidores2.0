@@ -1,0 +1,72 @@
+.caja-grande{
+    width: 90%;
+    height: 380px;
+    margin-top: 30px;
+    margin-left: 5%;
+    display: flex;
+    border-radius: 22px;
+}
+
+.caja-p-1 {
+    width: 30%;
+    height: 100%;
+    background-color: rgb(97, 8, 82);
+    border: 7px solid #333;
+    overflow-y: scroll;
+    border-radius: 22px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.caja-p-2 {
+    width: 65%;
+    height: 100%;
+    background-color: rgb(161, 19, 142);
+    border: 7px solid #333;
+    padding: 30px;
+    border-radius: 22px;
+}
+
+.caja-p-2 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 22px;
+}
+
+.carousel-item{
+    height: 300px;
+}
+
+.cajasp {
+    background-color: brown;
+    width: 80%;
+    height: 40%;
+    padding: 5%;
+    margin-top: 5%;
+    margin-left: 10%;
+    border-radius: 20px;
+    border: 8px solid #333;
+    box-shadow: 10px 10px 20px #333;
+}
+
+.caja-n-1 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.caja-n-2 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.caja-n-3 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+.caja-n-4 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
